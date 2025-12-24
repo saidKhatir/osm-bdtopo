@@ -1,1 +1,1 @@
-présente une méthode de comparaison entre des données issues d'OSM et de la BD Topo appliquée en python. L'objectif de cet outil est de permettre à l'utilisateur de comparer sur la base de plusieurs indicateurs les deux sources de données.
+Présente une méthode de comparaison entre des données issues d'OSM et de la BD Topo appliquée en python. L'objectif de cet outil est de permettre à l'utilisateur de comparer sur la base de plusieurs indicateurs les deux sources de données.
